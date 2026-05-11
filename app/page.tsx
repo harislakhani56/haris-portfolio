@@ -176,7 +176,7 @@ export default function Home() {
               <div className="overflow-hidden">
 
                 <Image
-                  src="/projects/sales-dashboard.png"
+                  src="/projects/xyz.png"
                   alt="Dashboard 1"
                   width={1200}
                   height={700}
@@ -206,7 +206,7 @@ export default function Home() {
               <div className="overflow-hidden">
 
                 <Image
-                  src="/projects/brand-dashboard.png"
+                  src="/projects/brand-abc.png"
                   alt="Dashboard 2"
                   width={1200}
                   height={700}
