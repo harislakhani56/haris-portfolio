@@ -175,12 +175,10 @@ export default function Home() {
 
               <div className="overflow-hidden">
 
-                <Image
-                  src="/projects/xyz.png"
+                <img
+                  src="/projects/abc.png"
                   alt="Dashboard 1"
-                  width={1200}
-                  height={700}
-                  className="hover:scale-110 duration-500"
+                  className="w-full hover:scale-110 duration-500"
                 />
 
               </div>
@@ -205,12 +203,10 @@ export default function Home() {
 
               <div className="overflow-hidden">
 
-                <Image
-                  src="/projects/brand-abc.png"
+                <img
+                  src="/projects/xyz.png"
                   alt="Dashboard 2"
-                  width={1200}
-                  height={700}
-                  className="hover:scale-110 duration-500"
+                  className="w-full hover:scale-110 duration-500"
                 />
 
               </div>
